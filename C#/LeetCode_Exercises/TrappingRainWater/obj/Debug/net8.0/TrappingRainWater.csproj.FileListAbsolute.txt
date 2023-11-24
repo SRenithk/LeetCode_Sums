@@ -1,0 +1,14 @@
+D:\SRenithK\Learning\LeetCode Exercises\C#\LeetCode_Exercises\TrappingRainWater\obj\Debug\net8.0\TrappingRainWater.GeneratedMSBuildEditorConfig.editorconfig
+D:\SRenithK\Learning\LeetCode Exercises\C#\LeetCode_Exercises\TrappingRainWater\obj\Debug\net8.0\TrappingRainWater.AssemblyInfoInputs.cache
+D:\SRenithK\Learning\LeetCode Exercises\C#\LeetCode_Exercises\TrappingRainWater\obj\Debug\net8.0\TrappingRainWater.AssemblyInfo.cs
+D:\SRenithK\Learning\LeetCode Exercises\C#\LeetCode_Exercises\TrappingRainWater\obj\Debug\net8.0\TrappingRainWater.csproj.CoreCompileInputs.cache
+D:\SRenithK\Learning\LeetCode Exercises\C#\LeetCode_Exercises\TrappingRainWater\bin\Debug\net8.0\TrappingRainWater.exe
+D:\SRenithK\Learning\LeetCode Exercises\C#\LeetCode_Exercises\TrappingRainWater\bin\Debug\net8.0\TrappingRainWater.deps.json
+D:\SRenithK\Learning\LeetCode Exercises\C#\LeetCode_Exercises\TrappingRainWater\bin\Debug\net8.0\TrappingRainWater.runtimeconfig.json
+D:\SRenithK\Learning\LeetCode Exercises\C#\LeetCode_Exercises\TrappingRainWater\bin\Debug\net8.0\TrappingRainWater.dll
+D:\SRenithK\Learning\LeetCode Exercises\C#\LeetCode_Exercises\TrappingRainWater\bin\Debug\net8.0\TrappingRainWater.pdb
+D:\SRenithK\Learning\LeetCode Exercises\C#\LeetCode_Exercises\TrappingRainWater\obj\Debug\net8.0\TrappingRainWater.dll
+D:\SRenithK\Learning\LeetCode Exercises\C#\LeetCode_Exercises\TrappingRainWater\obj\Debug\net8.0\refint\TrappingRainWater.dll
+D:\SRenithK\Learning\LeetCode Exercises\C#\LeetCode_Exercises\TrappingRainWater\obj\Debug\net8.0\TrappingRainWater.pdb
+D:\SRenithK\Learning\LeetCode Exercises\C#\LeetCode_Exercises\TrappingRainWater\obj\Debug\net8.0\TrappingRainWater.genruntimeconfig.cache
+D:\SRenithK\Learning\LeetCode Exercises\C#\LeetCode_Exercises\TrappingRainWater\obj\Debug\net8.0\ref\TrappingRainWater.dll

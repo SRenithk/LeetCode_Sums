@@ -1,0 +1,14 @@
+D:\SRenithK\Learning\LeetCode Exercises\C#\LeetCode_Exercises\Candy\bin\Debug\net8.0\Candy.exe
+D:\SRenithK\Learning\LeetCode Exercises\C#\LeetCode_Exercises\Candy\bin\Debug\net8.0\Candy.deps.json
+D:\SRenithK\Learning\LeetCode Exercises\C#\LeetCode_Exercises\Candy\bin\Debug\net8.0\Candy.runtimeconfig.json
+D:\SRenithK\Learning\LeetCode Exercises\C#\LeetCode_Exercises\Candy\bin\Debug\net8.0\Candy.dll
+D:\SRenithK\Learning\LeetCode Exercises\C#\LeetCode_Exercises\Candy\bin\Debug\net8.0\Candy.pdb
+D:\SRenithK\Learning\LeetCode Exercises\C#\LeetCode_Exercises\Candy\obj\Debug\net8.0\Candy.GeneratedMSBuildEditorConfig.editorconfig
+D:\SRenithK\Learning\LeetCode Exercises\C#\LeetCode_Exercises\Candy\obj\Debug\net8.0\Candy.AssemblyInfoInputs.cache
+D:\SRenithK\Learning\LeetCode Exercises\C#\LeetCode_Exercises\Candy\obj\Debug\net8.0\Candy.AssemblyInfo.cs
+D:\SRenithK\Learning\LeetCode Exercises\C#\LeetCode_Exercises\Candy\obj\Debug\net8.0\Candy.csproj.CoreCompileInputs.cache
+D:\SRenithK\Learning\LeetCode Exercises\C#\LeetCode_Exercises\Candy\obj\Debug\net8.0\Candy.dll
+D:\SRenithK\Learning\LeetCode Exercises\C#\LeetCode_Exercises\Candy\obj\Debug\net8.0\refint\Candy.dll
+D:\SRenithK\Learning\LeetCode Exercises\C#\LeetCode_Exercises\Candy\obj\Debug\net8.0\Candy.pdb
+D:\SRenithK\Learning\LeetCode Exercises\C#\LeetCode_Exercises\Candy\obj\Debug\net8.0\Candy.genruntimeconfig.cache
+D:\SRenithK\Learning\LeetCode Exercises\C#\LeetCode_Exercises\Candy\obj\Debug\net8.0\ref\Candy.dll
